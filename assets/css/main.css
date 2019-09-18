@@ -1658,7 +1658,7 @@ input, select, textarea {
 		}
 
 		#equipe .portrait {
-			width: 25%;
+			max-width: 25%;
 			padding-right:0.5rem;
 			margin-top:0.5rem;
 			text-align:center;
