@@ -1152,7 +1152,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.7), rgba(19, 21, 25, 0.7)), url("https://instinkto.github.io/OnProcess/images/overlay.png");
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.75), rgba(19, 21, 25, 0.75)), url("https://instinkto.github.io/OnProcess/images/overlay.png");
 			background-size: auto,
  256px 256px;
 			background-position: center,
